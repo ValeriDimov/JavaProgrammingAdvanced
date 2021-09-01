@@ -1,2 +1,2 @@
 # JavaProgrammingAdvanced
-Java Advanced 
+Problems solved during Java Programming Advanced course.
